@@ -1,0 +1,1 @@
+cat_S.obj,cat_T.obj
